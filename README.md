@@ -1,1 +1,1 @@
-Write a script that prints the absolute path name of the current working directory
+I'm writing scripts on shell basics in system engineering devops
