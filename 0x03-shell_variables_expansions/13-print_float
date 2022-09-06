@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM="$#"
+export NUM="2.31"
